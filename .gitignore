@@ -1,0 +1,28 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Colab specific
+*.ipynb_convert
+
+# Dataset files (optional - if you don’t want to push them)
+*.csv
+*.xlsx
+*.json
+
+# Environment files
+.env
+*.env
+.venv/
+venv/
+ENV/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
